@@ -196,6 +196,7 @@ body {-webkit-print-color-adjust: exact;}
     margin-top: 25px;
     display: flex;
     align-items: center;
+    justify-content: end;
 }
 
 .badge-logos img {
