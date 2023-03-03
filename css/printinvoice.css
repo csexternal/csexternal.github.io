@@ -191,3 +191,13 @@ th.ProductTotal,
 @media print {
 body {-webkit-print-color-adjust: exact;}
 }
+
+.badge-logos {
+    margin-top: 25px;
+    display: flex;
+    align-items: center;
+}
+
+.badge-logos img {
+    margin-right: 10px;
+}
